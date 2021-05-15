@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=minieap
-PKG_VERSION:=0.92.1
+PKG_VERSION:=0.93
 PKG_RELEASE:=1
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/minieap-$(PKG_VERSION)
